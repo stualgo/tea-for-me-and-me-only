@@ -126,3 +126,28 @@ footer {
     background-color: #EABA87;
 }
 
+.post:hover {
+
+border:20px groove #C49799 ;
+
+
+
+}
+aside{ 
+
+width:100px ;
+height: 200px;
+background-color:#F9E784 ;
+padding: 20px;
+border-radius: 10px;
+position: fixed;
+right:0px;
+bottom: 30px;px;
+}
+aside:hover{
+border: 20px ridge #E58F65;
+border-radius: 50px;
+
+
+
+}
